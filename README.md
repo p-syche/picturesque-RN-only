@@ -3,7 +3,7 @@
 This is an animation of an expandable plus with an additional menu.
 
 ## Expo demo
-  [Picturesque](https://expo.io/@p-syche/picturesque)
+  [Picturesque](https://expo.io/@p-syche/picturesqueRN)
 
 
 ## Documentation
