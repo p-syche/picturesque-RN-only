@@ -5,6 +5,6 @@
     "slug": "picturesqueRN",
     "sdkVersion": "27.0.0",
     "description": "This is a pure React Native app meant to serve as a template. It includes 4 tabs and a stramlined animation for 3 additional menu items",
-    "icon": "./assets/"
+    "icon": "./assets/icon.png"
    }
  }
