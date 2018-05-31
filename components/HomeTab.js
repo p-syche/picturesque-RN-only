@@ -2,17 +2,13 @@ import React from 'react';
 import { 
 	StyleSheet, 
 	ScrollView, 
-	Image,
-	StatusBar
+	Image
 } from 'react-native';
 
 import generalStyles from '../styles/generalStyles';
 
 const HomeTab = () => (
 	<ScrollView style={styles.container}>
-		   <StatusBar
-		   		hidden={true}
-		   />
 		<Image 
 			name="pic2" 
 			source={require('../assets/pic2.jpg')}

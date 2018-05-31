@@ -36,8 +36,10 @@ class ModalComponent extends React.Component {
 					resizeMode="cover"
 					style={styles.image}	
 				/>
-				<Text style={styles.mainText}>Hello!</Text>
-				<Text style={styles.paragraph}>This is an example of a nice modal for all Your interesting stuff!</Text>
+				<View>
+					<Text style={styles.mainText}>Hello!</Text>
+					<Text style={styles.paragraph}>This is an example of a nice modal for all Your interesting stuff!</Text>
+				</View>
               	<TouchableWithoutFeedback
 					onPress={e => 
 					  this.props.closeModal()
